@@ -10,7 +10,17 @@
     <a href="mailto:os.ua.bnb@gmail.com">
   <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/></a>
 </div>
-
-  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=OleksandrOS-UA&style=flat-square&color=blue" alt=""></p>
+  <h1>
   
+  ---
+  
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://i.ibb.co/kgFjxh4/validator-v-blockchain-300x182-1.jpg" width="600" height="300"/>
+</div>
+
+### :man_technologist: &nbsp;About Me :
+
