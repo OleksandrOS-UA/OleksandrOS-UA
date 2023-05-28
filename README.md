@@ -33,7 +33,17 @@ Crypto Enthusiast and Proof of Stake Validator
 
 |    Testnets    |    Mainets    |
 | -------------- | ------------- |
-|                | [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1whh3h4cg06zzd6lu0xfy7w04u32qp3nd2kcrnt)
+|[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1vnr2ek0x8f0g9cqurzm9nhhcmdagfe0fh77k3u)           | [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1whh3h4cg06zzd6lu0xfy7w04u32qp3nd2kcrnt)
+|[Lava](https://lava.exploreme.pro/validator/lava@valoper157sl75dc6fyxjpg00gy2m9ykf2c709x0tjggtk)
+|[Composable](https://composable.exploreme.pro/validator/banksyvaloper1f3uh0j96c2yw4hvw48l0e4ssxcq666tuq20pyj)
+|[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper1lmfjjc8rajnurkvxutd23ekf2mu8t2x98v4guu)
+|[Defund](https://defund.explorers.guru/validator/defundvaloper1fmeyz58wj36s3zygrs6e9gd4p2td5mpf2a28x8)
+|[Opside(OS-UA)](https://pre-alpha-beacon.opside.info/validator/734)
+|[Subspace(OS-UA)](https://telemetry.subspace.network/#list/0x7f489750cfe91e17fc19b42a5acaba41d1975cedd3440075d4a4b4171ad0ac20)
+|[Gear](https://telemetry.gear-tech.io/#/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
+
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
