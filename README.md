@@ -33,9 +33,7 @@ Crypto Enthusiast and Proof of Stake Validator
 
 |    Testnets    |    Mainets    |
 | -------------- | ------------- |
-
----
-
+|                | [Nibiru](https://gitopia.exploreme.pro/validator/gitopiavaloper1whh3h4cg06zzd6lu0xfy7w04u32qp3nd2kcrnt)
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
