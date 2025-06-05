@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/></div>
 <p align="center"
   <div id="badges">
-    <a href="https://t.me/os_ua_bnb">
+    <a href="https://t.me/os_ua_eth">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
     <a href="https://discordapp.com/users/976222705915428944">
   <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/></a>
