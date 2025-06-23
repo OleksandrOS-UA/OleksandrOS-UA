@@ -8,8 +8,8 @@
     <a href="https://twitter.com/os_ua_eth">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
     <a href="mailto:os.ua.bnb@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-</a>
+  <img src="https://img.shields.io/badge/Email%20me-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=OleksandrOS-UA&style=flat-square&color=blue" alt=""></p>
   <h1>
